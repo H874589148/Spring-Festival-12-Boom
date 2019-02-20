@@ -5,7 +5,7 @@
 有人提出：<br>
 李一一是联合政府的高级码农，能写出春节十二响这么精妙的程序，精通火石的自动安装、拔线的操作、撞针的功能，后期直接成为拯救地球小分队的领导者。
  
-<img src="https://github.com/H874589148/Spring-Festival-12-Boom/blob/master/li11.jpg" width="120" height="102" alt="李一一"/>
+<img src="https://github.com/H874589148/Spring-Festival-12-Boom/blob/master/li11.jpg" width="240" height="204" alt="李一一"/>
  
 这么强的程序猿居然不秃，甚至烫了个卷？这显然是不符合实际的。希望导演以后在选角上让演员形象更加真实。
  
